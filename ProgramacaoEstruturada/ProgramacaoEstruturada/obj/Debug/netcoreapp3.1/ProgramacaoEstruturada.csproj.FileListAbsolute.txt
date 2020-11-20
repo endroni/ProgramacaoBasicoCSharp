@@ -1,0 +1,13 @@
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\bin\Debug\netcoreapp3.1\ProgramacaoEstruturada.exe
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\bin\Debug\netcoreapp3.1\ProgramacaoEstruturada.deps.json
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\bin\Debug\netcoreapp3.1\ProgramacaoEstruturada.runtimeconfig.json
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\bin\Debug\netcoreapp3.1\ProgramacaoEstruturada.runtimeconfig.dev.json
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\bin\Debug\netcoreapp3.1\ProgramacaoEstruturada.dll
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\bin\Debug\netcoreapp3.1\ProgramacaoEstruturada.pdb
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\obj\Debug\netcoreapp3.1\ProgramacaoEstruturada.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\obj\Debug\netcoreapp3.1\ProgramacaoEstruturada.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\obj\Debug\netcoreapp3.1\ProgramacaoEstruturada.AssemblyInfo.cs
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\obj\Debug\netcoreapp3.1\ProgramacaoEstruturada.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\obj\Debug\netcoreapp3.1\ProgramacaoEstruturada.dll
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\obj\Debug\netcoreapp3.1\ProgramacaoEstruturada.pdb
+C:\Users\usuario\Documents\ProgramacaoBasicoCSharp\ProgramacaoEstruturada\ProgramacaoEstruturada\obj\Debug\netcoreapp3.1\ProgramacaoEstruturada.genruntimeconfig.cache
